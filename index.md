@@ -31,7 +31,7 @@ This article proposes an unsupervised algorithm that can outline a brain tumor b
 This project provides tools to convert PostgreSQL databases to Prolog files and back. 
 Part of the article "Specialized Case Tools for the Development of Expert Systems".
 
-[Paper] (https://link.springer.com/chapter/10.1007/978-3-319-77703-0_59)
+[Paper](https://link.springer.com/chapter/10.1007/978-3-319-77703-0_59)
 
 
 ### [ReshuEGE Parser](https://github.com/Olbert/ResuEgeParser)<span style="float: right;">
